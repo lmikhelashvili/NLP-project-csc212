@@ -1,33 +1,10 @@
-# NLP-project-csc212
-Natural Language Processing tool project for csc212 Fall 2020
+# Text Analysis Tool for Natural Language Processing (NLP)
 
+## Project for CSC 212 at Smith College, Fall 2020
 
-Title: "Text Analysis Tool for Natural Language Processing (NLP)"
+## Authors: Lika Mikhelashvili, Olivia Anastassov
 
-
-Authors: Lika Mikhelashvili, Olivia Anastassov
-
-
-Class: CSC212 Fall 2020 Smith College
-
-
-Files:
-
-Text Files:
-1. wordstoavoid.txt
-
-2. the_tempest.txt
-
-3. hamlet.txt
-
-4. macbeth.txt
-
-Java Files:
-
-1. project.java
-
-
-Software:
+### Software:
 
 To run the program, you will need to have java software installed on your computer.
 After navigating to the folder that contains all the relevant java and text files, from the terminal
@@ -36,7 +13,7 @@ run the command:
    java project.java
 
 
-Abstract:
+### Abstract:
 
 
 Comparing files of user’s choice. The program allows the user to add and remove as
@@ -58,3 +35,20 @@ that occur in each text file and see how many times those words have been repeat
 The program can read any text file of the user’s choice. We will, however, provide the
 texts we found interesting: Hamlet and The Tempest by William Shakespeare and will compare
 the word usage in a comedy and tragedy.
+
+
+### Files:
+
+Text Files:
+
+1. wordstoavoid.txt
+
+2. the_tempest.txt
+
+3. hamlet.txt
+
+4. macbeth.txt
+
+Java Files:
+
+1. project.java
